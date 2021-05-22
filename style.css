@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+}
+.page-wrapper{
+    background-color:black;
+    width:100%;
+    height:100vh;
+}
+.Top-box{
+    background-color: darkblue;
+    width:7.7%;
+    height:14vh;
+}
+.second-box{
+    background-color: red;
+    width:7.8%;
+    height:14vh;
+    margin-left:15.7vh;
+}
+.third-box{
+    background-color:green;
+    width:7.8%;
+    height:14vh;
+    margin-left:31.6vh;
+}
+.fourth-box{
+    background-color:yellow;
+    width:7.8%;
+    height: 14vh;
+    margin-left:47.4vh;
+}
